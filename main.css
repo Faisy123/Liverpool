@@ -1,0 +1,37 @@
+body{
+    border: 4px solid black;
+}
+
+main{
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    clear: both;
+    padding: 0px 10px 10px 600px;
+}
+
+header img{
+    float: left;
+    padding: 10px 0px;
+}
+
+header h1{
+    margin: 0;
+    padding-top: 42px;
+    color: red;
+    text-shadow: 4px 2px 5px rgb(108, 108, 192);
+    float: left;
+}
+
+footer{
+    text-align: center;
+}
+
+.alignInputBox{
+    display: inline-block;
+    width: 180px;
+    height: 30px;
+}
+
+#moveButtonRight{
+    margin-left: 120px;
+}
